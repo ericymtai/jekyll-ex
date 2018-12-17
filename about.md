@@ -7,9 +7,9 @@ permalink: /about/
 <style type="text/css" media="screen">
   img {
     width:50%;
-    border: 5px solid #f00;
-    display:block;
-    margin:-3em auto 0;
+    border: 10px solid #f00;
+    display: block;
+    margin:-5em auto 0;
   }
 </style>
 
